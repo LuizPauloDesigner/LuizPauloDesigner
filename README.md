@@ -1,4 +1,4 @@
-![Luiz Paulo Teixeira Juvencio Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?LuizPauloDesigner=SEU_USUARIO&theme=github-compact)
+![Luiz Paulo Teixeira Juvencio Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesignerO&theme=github-compact)
 
 <!--
 **LuizPauloDesigner/LuizPauloDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
