@@ -1,18 +1,36 @@
-![Luiz Paulo Teixeira Juvencio Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact)
+# 👋 Olá, eu sou o Luiz Paulo!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark)
+💻 **Desenvolvedor de Software & Analista de Suporte N2**  
+🎓 Bacharelando em Engenharia de Computação (UNISATC)
 
-<!--
-**LuizPauloDesigner/LuizPauloDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+- 🔭 **Atualmente trabalhando em:** Projetos de automação, ecossistemas full-stack e soluções ERP.
+- ⚡ **Áreas de interesse:** Desenvolvimento Backend/Frontend, arquiteturas auto-hospedadas (Self-Hosted), Agentes de IA e integração de sistemas.
+- 💬 **Pode me perguntar sobre:** JavaScript/Node.js, React, Progress OpenEdge/ABL, WebSpeed e bancos de dados relacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark" width="45%" />
+</div>
