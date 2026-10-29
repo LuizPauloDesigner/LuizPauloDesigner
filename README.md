@@ -24,7 +24,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact)
+### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact" width="100%" alt="Gráfico de Atividades" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark" width="45%" alt="Top Linguagens" />
+</p>
