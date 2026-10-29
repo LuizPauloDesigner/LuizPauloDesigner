@@ -24,13 +24,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact" width="100%" />
-</div>
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=LuizPauloDesigner&theme=github-compact)
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark" width="45%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark)
