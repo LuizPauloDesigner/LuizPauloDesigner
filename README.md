@@ -24,8 +24,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <p align="center">
   <img src="https://github-readme-stats-five-gamma-72.vercel.app/api?username=LuizPauloDesigner&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-five-gamma-72.vercel.app/api/top-langs/?username=LuizPauloDesigner&layout=compact&theme=github_dark" width="45%" alt="Top Linguagens" />
