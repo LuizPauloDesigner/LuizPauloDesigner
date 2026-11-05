@@ -63,9 +63,10 @@
 ---
 
 ### 📌 Projetos em destaque
+<!--
 - [**nome-do-projeto**](https://github.com/LuizPauloDesigner/nome-do-projeto) — uma linha explicando o que faz e a stack usada
 - [**outro-projeto**](https://github.com/LuizPauloDesigner/outro-projeto) — uma linha explicando o que faz e a stack usada
-
+-->
 ---
 
 ### 📊 Estatísticas do GitHub
