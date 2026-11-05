@@ -5,7 +5,7 @@
 **Software Developer & L2 Support Analyst**
 🎓 Computer Engineering student at UNISATC
 
-🌐 [Versão em português](README.md)
+🌐 [Versão em português](README.pt.md)
 
 </div>
 
