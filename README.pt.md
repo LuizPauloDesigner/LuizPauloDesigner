@@ -5,7 +5,7 @@
 **Desenvolvedor de Software & Analista de Suporte N2**
 🎓 Bacharelando em Engenharia de Computação (UNISATC)
 
-🌐 [English version](README.en.md)
+🌐 [English version](README.md)
 
 </div>
 
@@ -78,5 +78,5 @@
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-paulo-teixeira-juvencio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.luizpaulo@gmail.com)
