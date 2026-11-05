@@ -63,9 +63,10 @@
 ---
 
 ### 📌 Featured Projects
-- [**project-name**](https://github.com/LuizPauloDesigner/project-name) — one line on what it does and the stack used
-- [**another-project**](https://github.com/LuizPauloDesigner/another-project) — one line on what it does and the stack used
-
+<!--
+- [**nome-do-projeto**](https://github.com/LuizPauloDesigner/nome-do-projeto) — uma linha explicando o que faz e a stack usada
+- [**outro-projeto**](https://github.com/LuizPauloDesigner/outro-projeto) — uma linha explicando o que faz e a stack usada
+-->
 ---
 
 ### 📊 GitHub Stats
